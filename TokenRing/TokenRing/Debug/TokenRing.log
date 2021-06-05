@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\FACULTATE\ANU 2\RC\TokenRing\TokenRing\Source.cpp(34,39): warning C4018: '<=': signed/unsigned mismatch
+D:\FACULTATE\ANU 2\RC\TokenRing\TokenRing\Source.cpp(42,29): warning C4018: '<': signed/unsigned mismatch
+D:\FACULTATE\ANU 2\RC\TokenRing\TokenRing\Source.cpp(56,29): warning C4018: '<': signed/unsigned mismatch
+D:\FACULTATE\ANU 2\RC\TokenRing\TokenRing\Source.cpp(78,29): warning C4018: '<': signed/unsigned mismatch
+D:\FACULTATE\ANU 2\RC\TokenRing\TokenRing\Source.cpp(92,29): warning C4018: '<': signed/unsigned mismatch
+  TokenRing.vcxproj -> D:\FACULTATE\ANU 2\RC\TokenRing\Debug\TokenRing.exe
